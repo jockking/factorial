@@ -1,3 +1,3 @@
 # Factorial example in Python
 
-Simple Factoril function writen in Python
+Simple Factorial function writen in Python
